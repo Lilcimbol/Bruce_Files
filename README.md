@@ -1,2 +1,16 @@
 # Bruce_Files
-The Best place to get all the best Bruce firmware file's
+Hello always wanted the best files for all your hacking gadgets
+          well you came to the right place.
+
+
+# what device we have
+
+1. T embed and all the best scripts for it
+2. M5 stick plus 2 and 1 files
+3. Cardputer
+4. cheap yellow display
+5. Flipper zero files
+   
+   More coming soon
+
+# we also have all the connections for nrf24 cc1101s and more
