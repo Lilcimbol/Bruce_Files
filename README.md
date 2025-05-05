@@ -2,6 +2,8 @@
 Hello always wanted the best files for all your hacking gadgets
           well you came to the right place.
 
+           !My firmware coming soon!
+
 
 # what device we have
 
